@@ -57,7 +57,7 @@ class StoryMenuState extends MusicBeatState
 		"MOMMY MUST MURDER",
 		"RED SNOW",
 		"hating simulator ft. moawling",
-		"Back Alley Blitz",
+		"Whitty but giraffe is the arrows",
 	];
 
 	var txtWeekTitle:FlxText;
